@@ -1,4 +1,5 @@
 ## Learning Redux
+Ultimate Redux by Mosh Hamedani
 
 ### Redux isolated - `/redux_isolated`
 
